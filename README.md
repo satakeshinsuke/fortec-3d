@@ -32,6 +32,7 @@ How to :
 
 
 2. Tips for optimization :
+        
         1: SIMD-optimization for the large loops involving sin & cos calculations
                (in VISC_FLUX_ER, CALC_BFIELD)
                According to the environment, user should find the optimized length of the inner-most loop
