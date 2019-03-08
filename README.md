@@ -11,6 +11,9 @@ Superfluous or old comments have been cleaned up.
 FORTEC-3D can be distributed under the GPL license.
 Any bug report to Satake is welcome.
 
+Example data files are too large to put on Github, therefore they are temporally uploaded on google drive.
+Please contact Satake if you neeed the example files.
+
 ------------------------------------------------
 
 How to :
